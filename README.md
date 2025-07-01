@@ -1,5 +1,6 @@
 # -CODECRAFT_WD_05-
 # Weather App
+A simple weather app using HTML, CSS, and JavaScrip
 A simple web application that fetches and displays weather data based on either the user's *current location* or a *manually entered city name*, using the OpenWeatherMap API.
 This project is built using *HTML, **CSS, and **JavaScript*, and is ideal for learning how to work with APIs, geolocation, and dynamic DOM updates in the browser.
 ##  Features
