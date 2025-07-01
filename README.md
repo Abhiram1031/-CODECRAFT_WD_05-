@@ -2,12 +2,12 @@
 # Weather App
 A simple web application that fetches and displays weather data based on either the user's *current location* or a *manually entered city name*, using the OpenWeatherMap API.
 This project is built using *HTML, **CSS, and **JavaScript*, and is ideal for learning how to work with APIs, geolocation, and dynamic DOM updates in the browser.
-## 🚀 Features
-- 🔍 Search weather by city name  
-- 📍 Get weather using current location (via geolocation)  
-- 🌡 Shows temperature, weather description, wind speed, and humidity  
-- 📱 Responsive design with clean UI  
-## 🛠 Tech Stack
+##  Features
+- Search weather by city name  
+- Get weather using current location (via geolocation)  
+- Shows temperature, weather description, wind speed, and humidity  
+-  Responsive design with clean UI  
+##  Tech Stack
 - HTML 
 - CSS  
 - JavaScript 
